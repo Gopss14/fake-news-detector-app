@@ -29,3 +29,19 @@ Fake news spreads misinformation, especially through social media and online pla
 | Backend       | Python, Scikit-learn, Joblib            |
 | Model         | Logistic Regression / Naive Bayes        |
 | Deployment    | Streamlit Cloud         
+
+
+## 🧰 Technologies Used & Why
+
+| Technology            | Purpose                                                       |
+| --------------------- | ------------------------------------------------------------- |
+| **Python**            | Core language for data processing and model building          |
+| **scikit-learn**      | For building and training the machine learning model          |
+| **Pandas / NumPy**    | Data handling and numerical operations                        |
+| **NLTK / re**         | Text cleaning (stopwords, punctuations, etc.)                 |
+| **TF-IDF Vectorizer** | To convert text into numerical features                       |
+| **Joblib**            | To save and load the trained model and vectorizer efficiently |
+| **Streamlit**         | To create a beautiful, interactive web app quickly            |
+| **Git + GitHub**      | Version control and cloud repository                          |
+| **Streamlit Cloud**   | To deploy the app online for free                             |
+

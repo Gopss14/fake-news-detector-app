@@ -1,7 +1,7 @@
 # fake-news-detector-app
 Fake News Detection Using NLP and ML.
 
-##🔍 Features
+## 🔍 Features
 
 - 🧠 ML model trained on a labeled dataset of news articles
 - 🔤 Text preprocessing using TF-IDF vectorization
